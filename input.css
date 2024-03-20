@@ -10,7 +10,7 @@
   }
 
   .attribution {
-    @apply text-center text-sm mt-4 text-blue-500;
+    @apply text-center text-sm mt-4 text-black;
   }
 
   .attribution a {

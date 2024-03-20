@@ -458,7 +458,7 @@ video {
   font-size: 0.875rem;
   line-height: 1.25rem;
   --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
+  color: hsl(0 0% 7% / var(--tw-text-opacity));
 }
 
 .attribution a {
@@ -610,10 +610,6 @@ video {
   margin-bottom: 1.5rem;
 }
 
-.block {
-  display: block;
-}
-
 .inline-block {
   display: inline-block;
 }
@@ -671,10 +667,6 @@ video {
   padding: 0.5rem;
 }
 
-.pr-2 {
-  padding-right: 0.5rem;
-}
-
 .font-figtree {
   font-family: Figtree, sans-serif;
 }
@@ -723,21 +715,5 @@ video {
 .hover\:text-yellow:hover {
   --tw-text-opacity: 1;
   color: hsl(47 88% 63% / var(--tw-text-opacity));
-}
-
-@media (min-width: 768px) {
-  .md\:pr-2 {
-    padding-right: 0.5rem;
-  }
-}
-
-@media (min-width: 976px) {
-  .lg\:pr-1 {
-    padding-right: 0.25rem;
-  }
-
-  .lg\:pr-2 {
-    padding-right: 0.5rem;
-  }
 }
 
