@@ -1,0 +1,24 @@
+{
+  "name": "blog-preview-card",
+  "version": "1.0.0",
+  "description": "![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/style.css",
+    "start": "tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rgit915/blog-preview-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rgit915/blog-preview-card/issues"
+  },
+  "homepage": "https://github.com/Rgit915/blog-preview-card#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
