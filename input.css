@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Figtree";
+    src: url("../assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+    font-style: normal;
+  }
+
+  .attribution {
+    @apply text-center text-sm mt-4 text-blue-500;
+  }
+
+  .attribution a {
+    @apply underline hover:text-blue-700;
+  }
+
+}
+
+@layer components {
+  .card {
+    @apply bg-white p-6 rounded-[20px] border border-black shadow-[8px_8px_0_0] hover:shadow-[16px_16px_0_0] sm:m-4 xs:m-4;
+    @apply w-96;
+  }
+}
+
