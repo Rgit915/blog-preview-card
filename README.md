@@ -28,7 +28,7 @@ Users should be able to:
 
 ![Mobile Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/mobile-preview-MY-SOLUTION.png)
 
-![Active-states Preview](https://github.com/Rgit915/results-summary-component/blob/master/assets/images/active-states-MY-SOLUTION.png)
+![Active-states Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/active-states-MY-SOLUTION.png)
 
 
 ### Links
