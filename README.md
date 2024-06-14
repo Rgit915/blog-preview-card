@@ -24,11 +24,11 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-![Desktop Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/desktop-preview-MY-SOLUTION.png)
+![Desktop Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/screenshots/blog-preview-card-desktop-solution-preview.png)
 
-![Mobile Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/mobile-preview-MY-SOLUTION.png)
+![Active-states Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/screenshots/blog-preview-card-active-states-solution-preview.png)
 
-![Active-states Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/active-states-MY-SOLUTION.png)
+![Mobile Preview](https://github.com/Rgit915/blog-preview-card/blob/master/assets/images/screenshots/blog-preview-card-mobile-solution-preview.png)
 
 
 ### Links
