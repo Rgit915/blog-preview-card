@@ -10,7 +10,7 @@
   }
 
   .attribution {
-    @apply text-center text-sm mt-4 text-black;
+    @apply absolute bottom-0 text-center text-sm mt-4 text-black;
   }
 
   .attribution a {
